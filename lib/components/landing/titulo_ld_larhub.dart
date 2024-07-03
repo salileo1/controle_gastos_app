@@ -110,7 +110,7 @@ class TituloLandLarHub extends StatelessWidget {
                       borderRadius: BorderRadius.circular(8.0),
                     ),
                     child: Image.network(
-                     'https://www.google.com/url?sa=i&url=https%3A%2F%2Fconceito.de%2Fdinheiro&psig=AOvVaw1xRF8ONQ7iTfH4HOmOnj0k&ust=1720149547197000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMig6NX6iocDFQAAAAAdAAAAABAE',
+                     'https://conceito.de/wp-content/uploads/2012/01/banknotes-159085_1280.png',
                       fit: BoxFit.cover,
                     ),
                   ),

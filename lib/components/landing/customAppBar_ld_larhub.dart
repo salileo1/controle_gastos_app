@@ -22,7 +22,7 @@ class AppBarLandLarHub extends StatelessWidget implements PreferredSizeWidget {
                   child: SizedBox(
                     height: 150, // Altura personalizada da imagem
                     child: Image.network(
-                      'https://firebasestorage.googleapis.com/v0/b/ajude-pelotas.appspot.com/o/2.png?alt=media&token=595a4036-13a0-4f3d-a4e2-1a9306721fc1',
+                      'https://conceito.de/wp-content/uploads/2012/01/banknotes-159085_1280.png',
                     ),
                   ),
                 ),

@@ -18,7 +18,7 @@ class _LoginPageState extends State<LoginPage> {
 
   @override
   Widget build(BuildContext context) {
-    bool isSmallScreen = MediaQuery.of(context).size.width < 1200;
+    bool isSmallScreen = MediaQuery.of(context).size.width < 2000;
 
     return Container(
       color: Colors.white,
@@ -58,7 +58,7 @@ class _LoginPageState extends State<LoginPage> {
                               mainAxisAlignment: MainAxisAlignment.center,
                               children: [
                                 Image.network(
-                                  'https://firebasestorage.googleapis.com/v0/b/ajude-pelotas.appspot.com/o/2.png?alt=media&token=595a4036-13a0-4f3d-a4e2-1a9306721fc1',
+                                  'https://conceito.de/wp-content/uploads/2012/01/banknotes-159085_1280.png',
                                   height: !isSmallScreen ? 300 : 150,
                                   width: !isSmallScreen ? 300 : 150,
                                 ),
